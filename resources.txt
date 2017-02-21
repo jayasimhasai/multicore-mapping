@@ -1,0 +1,23 @@
+All-mighty PRACE guide for best practice
+http://www.prace-ri.eu/best-practice-guide-intel-xeon-phi-html/
+
+System administration Tips
+https://software.intel.com/sites/default/files/article/373934/system-administration-for-the-intel-xeon-phi-coprocessor.pdf
+https://software.intel.com/en-us/blogs/2014/01/31/intel-xeon-phi-coprocessor-power-management-configuration-using-the-micsmc-command
+
+OpenMP thread mapping
+https://software.intel.com/en-us/articles/using-kmp-affinity-to-create-openmp-thread-mapping-to-os-proc-ids
+
+Vectorization Tips
+https://software.intel.com/sites/default/files/8c/a9/CompilerAutovectorizationGuide.pdf
+https://software.intel.com/en-us/articles/data-alignment-to-assist-vectorization
+
+Intel Compiler Options
+https://software.intel.com/en-us/node/522788
+
+Understanding VTune
+https://software.intel.com/en-us/articles/optimization-and-performance-tuning-for-intel-xeon-phi-coprocessors-part-2-understanding
+https://software.intel.com/en-us/node/544017
+
+VTune Knob List
+https://software.intel.com/en-us/node/544270
